@@ -10,6 +10,7 @@ Udemy 課程 https://www.udemy.com/course/rest-api-flask-and-python
 Seciton 11
 使用 @jwt_required 將會出錯 因為 Flask-JWT-Extended 在 4.0.0 版 將 @jwt_required 改為 @jwt_required(), 
 還有其他的改變不一一列舉 詳情參考以下文件 參考 https://flask-jwt-extended.readthedocs.io/en/stable/v4_upgrade_guide/
+或直接看 flask-jwt-extended 源碼 https://github.com/vimalloc/flask-jwt-extended
 
 參考
 https://help.heroku.com/ZKNTJQSK/why-is-sqlalchemy-1-4-x-not-connecting-to-heroku-postgres
